@@ -1,4 +1,5 @@
 # States List Fetch Tutorial
+Fetch JSON data and display data using HTML, CSS, and JavaScript
 
 ## TLDR;
 - Semantic HTML
