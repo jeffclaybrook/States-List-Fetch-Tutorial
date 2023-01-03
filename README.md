@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/CivilServiceUSA/us-states/master/data/states.json
